@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1747274906 source:c:\users\laboratorio\desktop\codeblocks proyect\validaid\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<string.h>
+
